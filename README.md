@@ -2,7 +2,10 @@
 
 "This project explores the world of Naruto by highlighting its most important elements—clans, characters, and the jutsu they use. It’s designed to be an easy-to-follow guide for anyone curious about the series, whether you're a long-time fan or just getting started."
 
-Here's a demo image :[@fjbrgjr]
+## 📸 Project Screenshot
+
+![Screenshot](https://github.com/your-username/your-repo-name/blob/main/path/to/your/screenshot.png)
+
 
 ##  🛠 About the technologies used in the project (TECH STACK) 
 
